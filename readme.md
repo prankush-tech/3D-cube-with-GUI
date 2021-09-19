@@ -16,4 +16,4 @@ npm run build
 ```
 
   
-Check Here go Live   https://elegant-tereshkova-6dd5ac.netlify.app/
+Check Here go Live   https://prankush-3d-cube.netlify.app/
